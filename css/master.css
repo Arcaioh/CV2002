@@ -1,0 +1,149 @@
+.title {
+  text-align: center;
+  font-family: "Nunito-Sans";
+  font-size: 5rem;
+  font-weight: 400;
+  background-color: #3D6CB9;
+  color: white;
+  padding: 30px 0;
+}
+
+#profile {
+  font-family: "Roboto";
+  font-size: 1rem;
+  padding: 20px 0 0 0;
+  margin: 0 15%;
+  text-align: justify;
+}
+
+.chris {
+  padding-right: 20px;
+}
+
+.homer {
+  padding-left: 20px;
+}
+
+#navbar {
+  background-color: #00D1FF;
+}
+
+.navbar-brand {
+  font-family: "Roboto";
+  padding-left: 20px;
+}
+
+.nav-link {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: white;
+  margin-right: 20px;
+}
+
+.heading {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 2rem;
+  text-align: center;
+  padding: 30px 0;
+}
+
+.logo {
+  width: 100px;
+  float: left;
+  margin-left: 5%;
+}
+
+.work-box {
+  font-family: "Roboto";
+  text-align: left;
+  margin: 0 15% 75px 15%;
+}
+
+#education {
+  background-color: #EFFFFD;
+  text-align: center;
+}
+
+.education-logo {
+  height: 100px;
+  margin: 10px auto 10px auto;
+}
+
+.education-card1 {
+  background-color: #EFFFFD;
+  height: 300px;
+  width: 60%;
+  margin-left: 30%;
+  border-style: none;
+}
+
+.education-card2 {
+  background-color: #EFFFFD;
+  height: 300px;
+  width: 60%;
+  margin-left: 10%;
+  border-style: none;
+}
+
+.education-row {
+  padding-bottom: 20px;
+}
+
+#competencies {
+  background-color: #EFFFFD;
+}
+
+.competencies-card-l {
+  background-color: #EFFFFD;
+  border-style: none;
+  text-align: center;
+  width: 300px;
+  margin-left: 47%;
+}
+
+.competencies-card-m {
+  background-color: #EFFFFD;
+  border-style: none;
+  text-align: center;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.competencies-card-r {
+  background-color: #EFFFFD;
+  border-style: none;
+  text-align: center;
+    width: 300px;
+    margin-left: -10%;
+}
+
+.competencies-logo {
+    height: 100px;
+    margin: 10px auto 10px auto;
+}
+
+.competencies-row {
+  padding-bottom: 20px;
+}
+
+.contact-me {
+  text-align: center;
+}
+
+.fontaw {
+  margin: 0 20px 60px 20px;
+}
+
+.fa-twitter {
+  color: #00acee;
+}
+
+.fa-linkedin {
+  color: #0E76A8;
+}
+
+.fa-envelope {
+  color: #78C5EF;
+}
